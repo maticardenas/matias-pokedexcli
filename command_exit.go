@@ -4,5 +4,5 @@ import "os"
 
 func callbackExit() error {
 	os.Exit(0)
-	retur nil
+	return nil
 }
